@@ -1,8 +1,9 @@
 # TP-Link-AC600-Archer-T2U-Plus-Guide
 A guide to install drivers of TP-Link AC600 Archer T2U Plus on Kali Linux.
 
-`amd64` - PC/Laptop/VMs of 64-Bit
-`arm64` - Raspberry Pi, Orange Pi, Banana Pi etc of 64-Bit.
+We can both methods on these type of systems :
+- `amd64` - PC/Laptop/VMs of 64-Bit
+- `arm64` - Raspberry Pi, Orange Pi, Banana Pi etc of 64-Bit.
 
 # There are 2 ways to install drivers on Kali Linux
 ## Way-1
